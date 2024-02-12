@@ -1,2 +1,2 @@
 # Guess-Number-Game
-form my Javascript leanr course
+form my Javascript learn course
